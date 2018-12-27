@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ubuntu/objectdetect_ws/src/objectdetect_pkg/build/devel/setup.sh

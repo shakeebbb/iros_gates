@@ -1,0 +1,7 @@
+<launch>
+	<!-- <include file="$(find zed_wrapper)/launch/zed.launch" />
+	<node name="odom_node" pkg="odom_pkg" type="odom_node" output="screen" /> -->
+	 <node name="theMan_node" pkg="iros_drone" type="theMan_node" output="screen"/>
+	<node name="objectdetect_node" pkg="objectdetect_pkg" type="objectdetect_node" output="screen" /> 
+	
+</launch>

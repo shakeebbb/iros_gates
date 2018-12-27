@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/objectdetect_ws/src/objectdetect_pkg/build/devel
+
+Name: objectdetect_pkg
+Description: Description of objectdetect_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ubuntu/objectdetect_ws/src/objectdetect_pkg/build/devel/lib 
+Requires: 
